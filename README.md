@@ -20,3 +20,7 @@ l4:https://github.com/user-attachments/assets/437a68bb-07bd-4e47-8750-6a477640ec
 l5:https://github.com/user-attachments/assets/08c74eec-4dd3-4728-906f-61661174892b
 
 performancetest:https://github.com/user-attachments/assets/f4ff5ea9-fa3c-4876-b182-e30193315b79
+
+stringfunctions:https://github.com/user-attachments/assets/ddaadbf0-aa71-495d-96ab-e5b180786973,https://github.com/user-attachments/assets/bf53a9a1-e679-4681-8f00-6b47a223c34c,https://github.com/user-attachments/assets/d108edfe-a192-4fab-9ddd-f3b952db249c
+
+
