@@ -51,7 +51,7 @@ imagebutton:https://github.com/user-attachments/assets/c2e89eb3-8acd-4682-b3d8-f
 
 countrylist:https://github.com/user-attachments/assets/2ccd796d-d12d-483e-a7c4-943c0c07ec83
 
-tabbedpanecolors:https://github.com/user-attachments/assets/eeb60c60-828c-4262-ae99-70ee891e6ae4,,https://github.com/user-attachments/assets/2fed3950-de65-4f9c-b18c-a65acd1bbc96,,https://github.com/user-attachments/assets/1d927ad5-ef21-4257-965c-b05231c8f7c9
+tabbedpanecolors:https://github.com/user-attachments/assets/e79825c5-46f4-49af-b078-803d534bd5c8
 
 countrycapital:https://github.com/user-attachments/assets/db7ae390-c1fb-4c75-bce4-bc9e6890b7dd
 
