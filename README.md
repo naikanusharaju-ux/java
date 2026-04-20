@@ -51,6 +51,9 @@ imagebutton:https://github.com/user-attachments/assets/cc3ca450-f6b6-4b45-90b2-f
 
 countrylist:https://github.com/user-attachments/assets/2ccd796d-d12d-483e-a7c4-943c0c07ec83
 
+tabbedpanecolors:https://github.com/user-attachments/assets/eeb60c60-828c-4262-ae99-70ee891e6ae4,,https://github.com/user-attachments/assets/2fed3950-de65-4f9c-b18c-a65acd1bbc96,,https://github.com/user-attachments/assets/1d927ad5-ef21-4257-965c-b05231c8f7c9
+
+
 
 
 
