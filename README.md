@@ -55,6 +55,10 @@ tabbedpanecolors:https://github.com/user-attachments/assets/eeb60c60-828c-4262-a
 
 countrycapital:https://github.com/user-attachments/assets/db7ae390-c1fb-4c75-bce4-bc9e6890b7dd
 
+tabbedpanecmy:https://github.com/user-attachments/assets/7965966e-d406-486c-b915-533e50d07dcd,,https://github.com/user-attachments/assets/34649014-0a5c-4ebf-8aac-27a5db26c884,,https://github.com/user-attachments/assets/e7badbce-0cf4-4fda-99a2-7cb458c08d4d
+
+
+
 
 
 
