@@ -1,3 +1,8 @@
+<img width="563" height="501" alt="Screenshot 2026-05-08 223851" src="https://github.com/user-attachments/assets/0874b7a0-a7c9-4621-8bec-ac480b611e93" />
+<img width="563" height="501" alt="Screenshot 2026-05-08 223851" src="https://github.com/user-attachments/assets/78fbe061-4888-4b37-9de0-468e4be80b8d" />
+<img width="563" height="501" alt="Screenshot 2026-05-08 223851" src="https://github.com/user-attachments/assets/288860ed-e4e9-4c82-a166-36e81515bc96" />
+<img width="563" height="501" alt="Screenshot 2026-05-08 223851" src="https://github.com/user-attachments/assets/76f68cea-06c3-4600-8884-f90ac414e949" />
+<img width="563" height="501" alt="Screenshot 2026-05-08 223851" src="https://github.com/user-attachments/assets/2ecc1e1f-7b87-4c3d-b01c-0f33f3a6d939" />
 abstractclass: https://github.com/user-attachments/assets/6bc345e7-5dd2-471a-97fc-da59328b08aa,https://github.com/user-attachments/assets/c28fee73-be17-41f4-bd66-29f13609af0c
 a1:https://github.com/user-attachments/assets/51726842-3000-4220-aaee-18941120aa6d
 
@@ -79,7 +84,8 @@ sessionexpiry:https://github.com/user-attachments/assets/1a35be59-94c1-49cc-bab6
 
 username:https://github.com/user-attachments/assets/8a5a2898-e7b4-4439-bd94-9ebbf62154d1 https://github.com/user-attachments/assets/fb4cc838-77a3-4d79-8abd-e65e15dfb03e
 
-studentresult:
+studentresult:https://github.com/user-attachments/assets/0fc928e7-d0ed-4a5b-9b6d-525ff6f0ce70,,https://github.com/user-attachments/assets/9350ff7f-7bb7-441a-894c-8179eb730e73
+
 
 
 
