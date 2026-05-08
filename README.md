@@ -1,4 +1,4 @@
-abstractclass: https://github.com/user-attachments/assets/6bc345e7-5dd2-471a-97fc-da59328b08aa,https://github.com/user-attachments/assets/c28fee73-be17-41f4-bd66-29f13609af0c
+<img width="352" height="275" alt="Screenshot 2026-05-08 215649" src="https://github.com/user-attachments/assets/6b361eec-6d8c-4048-9b98-f7b335121d98" />abstractclass: https://github.com/user-attachments/assets/6bc345e7-5dd2-471a-97fc-da59328b08aa,https://github.com/user-attachments/assets/c28fee73-be17-41f4-bd66-29f13609af0c
 a1:https://github.com/user-attachments/assets/51726842-3000-4220-aaee-18941120aa6d
 
 a2:https://github.com/user-attachments/assets/a58d91df-9e20-4b97-93f9-282fcae98fd7
@@ -58,6 +58,12 @@ countrycapital:https://github.com/user-attachments/assets/db7ae390-c1fb-4c75-bce
 tabbedpanecmy:https://github.com/user-attachments/assets/3d185af9-4eaa-4067-96b5-77b80412f0ad
 
 factorial:https://github.com/user-attachments/assets/9fc63c5c-d73f-4491-bb89-ffe603bb5c5b,,https://github.com/user-attachments/assets/cd8194a8-1e4d-4b31-9fd9-fc1566f56cf6
+
+servlet:
+
+prime number:https://github.com/user-attachments/assets/3bd8c96a-390d-4e0b-9546-ed8c9970ddb5,,https://github.com/user-attachments/assets/b4e16c5d-38f2-4e49-b84d-27c063557d36,,https://github.com/user-attachments/assets/4bb857bb-2fd2-4d3d-886e-07f9e0308ab0,,https://github.com/user-attachments/assets/6c55524c-f577-43ad-81af-34c119755e4f
+
+
 
 
 
