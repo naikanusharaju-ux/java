@@ -59,7 +59,7 @@ tabbedpanecmy:https://github.com/user-attachments/assets/3d185af9-4eaa-4067-96b5
 
 factorial:https://github.com/user-attachments/assets/9fc63c5c-d73f-4491-bb89-ffe603bb5c5b https://github.com/user-attachments/assets/cd8194a8-1e4d-4b31-9fd9-fc1566f56cf6
 
-servlet:
+servlet:https://github.com/user-attachments/assets/8086f900-c247-4477-8fb0-ecb74d119109,,https://github.com/user-attachments/assets/a0804559-8f6d-4495-8efe-53b1ff37159f,,https://github.com/user-attachments/assets/cc7d7142-2f52-44e8-96d6-187504c33ef2
 
 prime number:https://github.com/user-attachments/assets/3bd8c96a-390d-4e0b-9546-ed8c9970ddb5 https://github.com/user-attachments/assets/b4e16c5d-38f2-4e49-b84d-27c063557d36 https://github.com/user-attachments/assets/4bb857bb-2fd2-4d3d-886e-07f9e0308ab0 https://github.com/user-attachments/assets/6c55524c-f577-43ad-81af-34c119755e4f
 
