@@ -57,6 +57,9 @@ countrycapital:https://github.com/user-attachments/assets/db7ae390-c1fb-4c75-bce
 
 tabbedpanecmy:https://github.com/user-attachments/assets/3d185af9-4eaa-4067-96b5-77b80412f0ad
 
+factorial:https://github.com/user-attachments/assets/9fc63c5c-d73f-4491-bb89-ffe603bb5c5b,,https://github.com/user-attachments/assets/cd8194a8-1e4d-4b31-9fd9-fc1566f56cf6
+
+
 
 
 
